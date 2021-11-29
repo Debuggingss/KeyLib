@@ -1,0 +1,6 @@
+{
+    "name": "KeyLib",
+    "author": "Debuggings",
+    "entry": "index.js",
+    "description": "Exports with control keys and other functions."
+}
